@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "ECMAScript es la especificación del lenguaje JavaScript propuesto por ECMA Internacional, que es la institución encargada de los estándares, y JavaScript, es el lenguaje de programación que utiliza las especificaciones propuestas, que van siendo añadidas cada año a partir del 2015, cuando fue lanzado ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josegerstner/platzi-cursoECMAScript6.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josegerstner/platzi-cursoECMAScript6/issues"
+  },
+  "homepage": "https://github.com/josegerstner/platzi-cursoECMAScript6#readme"
+}
